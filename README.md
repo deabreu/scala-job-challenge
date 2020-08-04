@@ -1,5 +1,6 @@
 [github]: https://github.com/
 [imdb]: https://imdb.com/
+[pulls]: https://github.com/Contabilone/scala-job-challenge/pulls
 [sbt]: https://www.scala-sbt.org/
 [scala]: https://www.scala-lang.org/
 [solid]: https://www.wikiwand.com/en/SOLID
@@ -14,7 +15,9 @@
 
 The customer has requested a way to query for movie titles in [IMDb][imdb].
 
-You must clone [this repo][this] and develop the software.
+You must clone [this repo][this], develop the software, and
+[pull the request][pulls] for application. Working PRs are going to be reviewed
+in their turn.
 
 ## Requirements
 
