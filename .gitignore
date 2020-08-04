@@ -1,0 +1,15 @@
+.*
+*.class
+*.dat
+*.db
+*.idx
+*.iml
+*.jar
+build
+core
+*.versionsBackup
+bin/
+dependency-reduced-pom.xml
+nbproject/
+project/
+target/
