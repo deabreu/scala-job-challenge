@@ -24,7 +24,7 @@ You must clone [this repo][this] and develop the software.
 - It must read on a TCP port for requests.
 - It must support multiple concurrent connections.
 - The protocol is text, according to:
-    - <em>&lt;query length&gt;</em>`:`*<em>&lt;query&gt;</em>
+    - <em>&lt;query length&gt;</em>`:`<em>&lt;query&gt;</em>
     - The *query length* mustn’t consider the `:` separator.
 - You **must not** use any framework, *sine qua non* condition. No Spring,
   no Akka, no PlayFramework.
@@ -49,7 +49,5 @@ You must clone [this repo][this] and develop the software.
 
 -----
 
-<small>
-    <a href="mailto:alexandre.silva@contabilone.com">Alexandre Silva</a><br/>
-    <a href="mailto:rodrigo.cacilhas@contabilone.com">Rodrigo Cacilhas</a><br/>
-</small>
+<a href="mailto:alexandre.silva@contabilone.com"><small>Alexandre Silva</small></a><br/>
+<a href="mailto:rodrigo.cacilhas@contabilone.com"><small>Rodrigo Cacilhas</small></a>
