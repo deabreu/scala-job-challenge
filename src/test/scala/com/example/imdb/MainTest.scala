@@ -4,7 +4,7 @@ import org.specs2.mutable.Specification
 
 class MainTest extends Specification {
 
-  "IMDB Challange" >> {
+  "IMDb Challange" >> {
     // Do not forget your tests!
     ko
   }
