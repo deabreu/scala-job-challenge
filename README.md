@@ -26,8 +26,8 @@ You must clone [this repo][this] and develop the software.
 - The protocol is text, according to:
     - <em>&lt;query length&gt;</em>`:`<em>&lt;query&gt;</em>
     - The *query length* mustn’t consider the `:` separator.
-- You **must not** use any framework, *sine qua non* condition. No Spring,
-  no Akka, no PlayFramework.
+- You **must not** use any non-builtin framework, *sine qua non* condition.
+  No Spring, no Akka, no PlayFramework.
 - Unit tests are strictly required.
 - The response must respect the same request protocol.
 - The response payload must be a movie title list separated by LF (`\n`).
