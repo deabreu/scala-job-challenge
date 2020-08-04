@@ -4,6 +4,7 @@
 [scala]: https://www.scala-lang.org/
 [solid]: https://www.wikiwand.com/en/SOLID
 [style-guide]: https://docs.scala-lang.org/style/
+[this]: https://github.com/Contabilone/scala-job-challenge
 [xml]: https://scala.github.io/scala-xml/api/1.2.0/scala/xml/
 
 # Emites Scala Job Application Challange
@@ -13,7 +14,7 @@
 
 The customer has requested a way to query for movie titles in [IMDb][imdb].
 
-You must clone this repo and develop the software.
+You must clone [this repo][this] and develop the software.
 
 ## Requirements
 
