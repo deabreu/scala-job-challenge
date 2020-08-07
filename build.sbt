@@ -1,8 +1,10 @@
+addCompilerPlugin("org.typelevel" %% "kind-projector" % "0.11.0" cross CrossVersion.full)
+
 name := "IMDB Challange"
 organization := "com.example.imdb"
 version := "1.0.0"
 javacOptions ++= Seq("-target", "1.8", "-Xlint")
-scalaVersion := "2.12.10"
+scalaVersion := "2.12.12"
 scalacOptions ++= Seq(
   "-deprecation",  // warn on deprecation
   "-feature",      // warn on feature
