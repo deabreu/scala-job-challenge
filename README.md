@@ -7,6 +7,7 @@
 [style-guide]: https://docs.scala-lang.org/style/
 [this]: https://github.com/Contabilone/scala-job-challenge
 [xml]: https://scala.github.io/scala-xml/api/1.2.0/scala/xml/
+[yagni]: https://www.wikiwand.com/en/You_aren%27t_gonna_need_it
 
 # Emites Scala Job Application Challange
 
@@ -47,7 +48,7 @@ in their turn.
 
 ## Suggestions
 
-- For Clean Code, you my start reading [SOLID][solid].
+- For Clean Code, you my start reading [SOLID][solid] and [YAGNI][yagni].
 - The [standard Scala XML library][xml] is your friend.
 
 -----
