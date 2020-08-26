@@ -15,7 +15,7 @@
 
 The customer has requested a way to query for movie titles in [IMDb][imdb].
 
-You must clone [this repo][this], develop the software, and
+You must fork [this repo][this], develop the software, and
 [pull the request][pulls] for application. Working PRs are going to be reviewed
 in their turn.
 
