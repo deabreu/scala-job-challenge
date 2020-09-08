@@ -3,6 +3,7 @@
 [pulls]: https://github.com/Contabilone/scala-job-challenge/pulls
 [sbt]: https://www.scala-sbt.org/
 [scala]: https://www.scala-lang.org/
+[scalatest]: https://www.scalatest.org/user_guide
 [solid]: https://www.wikiwand.com/en/SOLID
 [style-guide]: https://docs.scala-lang.org/style/
 [this]: https://github.com/Contabilone/scala-job-challenge
@@ -32,7 +33,7 @@ in their turn.
     - The *query length* mustn’t consider the `:` separator.
 - You **must not** use any non-builtin framework, *sine qua non* condition.
   No Spring, no Akka, no PlayFramework.
-- Unit tests are strictly required.
+- [Unit tests][scalatest] are strictly required.
 - The response must respect the same request protocol.
 - The response payload must be a movie title list separated by LF (`\n`).
 - You must supply the installation and use documentation.

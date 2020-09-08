@@ -1,11 +1,11 @@
 package com.example.imdb
 
-import org.specs2.mutable.Specification
+import org.scalatest.flatspec.AnyFlatSpec
+import org.scalatest.matchers.must._
 
-class MainTest extends Specification {
+class MainTest extends AnyFlatSpec with Matchers {
 
-  "IMDb Challange" >> {
-    // Do not forget your tests!
-    ko
+  "IMDb Challange" should "work" in {
+    fail("Do not forget your tests!")
   }
 }

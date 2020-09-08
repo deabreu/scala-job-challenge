@@ -1,10 +1,8 @@
-addCompilerPlugin("org.typelevel" %% "kind-projector" % "0.11.0" cross CrossVersion.full)
-
 name := "IMDB Challange"
 organization := "com.example.imdb"
 version := "1.0.0"
 javacOptions ++= Seq("-target", "1.8", "-Xlint")
-scalaVersion := "2.12.12"
+scalaVersion := "2.13.0"
 scalacOptions ++= Seq(
   "-deprecation",  // warn on deprecation
   "-feature",      // warn on feature
@@ -15,7 +13,7 @@ Test / fork := true
 Test / envVars += "TEST" → "1"
 libraryDependencies ++= Seq(
   "org.scala-lang.modules" %% "scala-xml" % "2.0.0-M1",
-  "org.specs2" %% "specs2-core" % "4.10.0" % Test,
+  "org.scalatest" %% "scalatest" % "3.2.0" % Test,
 )
 test in assembly := {}
 assemblyMergeStrategy in assembly := {
