@@ -24,7 +24,7 @@ in their turn.
 
 - You must respect the Uncle Bob’s Clean Code principles. We expect an easily
   understandable code.
-- You must use [Scala][scala] 2.12 and [SBT][sbt].
+- You must use [Scala][scala] 2.13 (or 2.12) and [SBT][sbt].
 - It must read on a TCP port for requests.
 - It must support multiple concurrent connections.
 - The protocol is text, according to:
