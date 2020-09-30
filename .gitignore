@@ -13,3 +13,5 @@ dependency-reduced-pom.xml
 nbproject/
 project/
 target/
+!gitignore
+!project/plugins.sbt
