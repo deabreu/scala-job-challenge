@@ -32,11 +32,11 @@ in their turn.
     - <em>&lt;query length&gt;</em>`:`<em>&lt;query&gt;</em>
     - The *query length* mustn’t consider the `:` separator.
 - You **must not** use any non-builtin framework, *sine qua non* condition.
-  No Spring, no Akka, no PlayFramework.
+  No Spring, no Akka, no Play Framework.
 - [Unit tests][scalatest] are strictly required.
 - The response must respect the same request protocol.
 - The response payload must be a movie title list separated by LF (`\n`).
-- You must supply the installation and use documentation.
+- You must supply the installation and the use documentation.
 - The code must be shared on [GitHub][github].
 
 ## Desired
