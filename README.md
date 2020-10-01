@@ -10,7 +10,7 @@
 [xml]: https://scala.github.io/scala-xml/api/1.2.0/scala/xml/
 [yagni]: https://www.wikiwand.com/en/You_aren%27t_gonna_need_it
 
-# Emites Scala Job Application Challange
+# Emites Scala Job Application Challenge
 
 ## Target
 

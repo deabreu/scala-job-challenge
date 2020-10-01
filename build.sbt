@@ -1,4 +1,4 @@
-name := "IMDB Challange"
+name := "IMDB Challenge"
 organization := "com.example.imdb"
 version := "1.0.0"
 javacOptions ++= Seq("-target", "1.8", "-Xlint")
@@ -27,4 +27,4 @@ assemblyMergeStrategy in assembly := {
   case _ ⇒ MergeStrategy.first
 }
 mainClass in assembly := Some("com.example.imdb.Main")
-assemblyJarName in assembly := "imdb-challange.jar"
+assemblyJarName in assembly := "imdb-challenge.jar"

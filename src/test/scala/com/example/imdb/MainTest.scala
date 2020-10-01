@@ -5,7 +5,7 @@ import org.scalatest.matchers.must._
 
 class MainTest extends AnyFlatSpec with Matchers {
 
-  "IMDb Challange" should "work" in {
+  "IMDb Challenge" should "work" in {
     fail("Do not forget your tests!")
   }
 }
