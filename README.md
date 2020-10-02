@@ -52,7 +52,7 @@ in their turn.
 
 ## Suggestions
 
-- For Clean Code, you my start reading [SOLID][solid], [YAGNI][yagni], and
+- For Clean Code, you may start reading [SOLID][solid], [YAGNI][yagni], and
   [DRY][dry].
 - Two different approaches you can use to get data from IMDb:
     1. [Rapid API][rapidapi] with [standard Scala XML library][xml];
