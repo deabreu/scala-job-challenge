@@ -1,3 +1,4 @@
+[dry]: https://www.wikiwand.com/en/Don%27t_repeat_yourself
 [github]: https://github.com/
 [htmlcleaner]: http://htmlcleaner.sourceforge.net/
 [imdb]: https://imdb.com/
@@ -51,7 +52,8 @@ in their turn.
 
 ## Suggestions
 
-- For Clean Code, you my start reading [SOLID][solid] and [YAGNI][yagni].
+- For Clean Code, you my start reading [SOLID][solid], [YAGNI][yagni], and
+  [DRY][dry].
 - Two different approaches you can use to get data from IMDb:
     1. [Rapid API][rapidapi] with [standard Scala XML library][xml];
     1. [HtmlCleaner][htmlcleaner].
