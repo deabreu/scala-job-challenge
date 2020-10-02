@@ -1,6 +1,8 @@
 [github]: https://github.com/
+[htmlcleaner]: http://htmlcleaner.sourceforge.net/
 [imdb]: https://imdb.com/
 [pulls]: https://github.com/Contabilone/scala-job-challenge/pulls
+[rapidapi]: https://rapidapi.com/blog/lp/imdb-api/
 [sbt]: https://www.scala-sbt.org/
 [scala]: https://www.scala-lang.org/
 [scalatest]: https://www.scalatest.org/user_guide
@@ -50,7 +52,9 @@ in their turn.
 ## Suggestions
 
 - For Clean Code, you my start reading [SOLID][solid] and [YAGNI][yagni].
-- The [standard Scala XML library][xml] is your friend.
+- Two different approaches you can use to get data from IMDb:
+    1. [Rapid API][rapidapi] with [standard Scala XML library][xml];
+    1. [HtmlCleaner][htmlcleaner].
 
 -----
 
