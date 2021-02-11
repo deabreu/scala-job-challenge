@@ -14,6 +14,7 @@ Test / envVars += "TEST" → "1"
 libraryDependencies ++= Seq(
   "org.scala-lang.modules" %% "scala-xml" % "2.0.0-M1",
   "org.scalatest" %% "scalatest" % "3.2.0" % Test,
+  "net.sourceforge.htmlcleaner" % "htmlcleaner" % "2.6.1",
 )
 test in assembly := {}
 assemblyMergeStrategy in assembly := {
