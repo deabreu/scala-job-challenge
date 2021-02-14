@@ -1,6 +1,6 @@
 name := "IMDB Challenge"
 organization := "com.example.imdb"
-version := "1.0.0"
+version := "0.1.0"
 javacOptions ++= Seq("-target", "1.8", "-Xlint")
 scalaVersion := "2.13.0"
 scalacOptions ++= Seq(
