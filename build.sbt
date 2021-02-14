@@ -15,6 +15,7 @@ libraryDependencies ++= Seq(
   "org.scala-lang.modules" %% "scala-xml" % "2.0.0-M1",
   "org.scalatest" %% "scalatest" % "3.2.0" % Test,
   "net.sourceforge.htmlcleaner" % "htmlcleaner" % "2.6.1",
+  "org.jsoup" % "jsoup" % "1.8.3",
 )
 test in assembly := {}
 assemblyMergeStrategy in assembly := {
